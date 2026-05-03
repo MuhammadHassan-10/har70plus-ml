@@ -399,8 +399,7 @@ In 134-dimensional feature space, all pairwise distances converge (curse of dime
 ## 👥 Team
 
 **Muhammad Hassan** — BSDS, NUST SEECS  
-**[Group Member 2]** — BSDS, NUST SEECS  
-**[Group Member 3]** — BSDS, NUST SEECS  
+**Muhammad Dawood Akbar** — BSDS, NUST SEECS    
 
 Supervisor: **Dr. Nazia Perwaiz** — CS-245 Machine Learning, NUST SEECS
 
